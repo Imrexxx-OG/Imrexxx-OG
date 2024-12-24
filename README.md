@@ -9,9 +9,10 @@ Beyond Code: Coding isn't my only gig; I'm on a mission to stay ahead of the cur
 
 Achievements to Brag About:  
 Hackathon Hero: I won my first hackathon, and let's be real, luck is also a skill, right? lol. It was the perfect blend of skill and serendipity, showcasing my knack for innovation under pressure.
-Anime Aficionado: Watching "One Piece" three times? That's not just a hobby; it's a testament to my love for epic tales, which I channel into creating user stories in my code.
 
-Why Work With Me?If you're looking for someone who can code, create, and crack a smile, that's me. I'm here to push the boundaries of what's possible in tech, whether it's through traditional web or the blockchain revolution. Let's collaborate to build something epic, where technology meets storytelling, with a dash of humor on the side.
+Anime Aficionado: Watching "One Piece" three times? That's not just a hobby, it's a testament to my love for epic tales, which I channel into creating user stories in my code.
+
+Why Work With Me? If you're looking for someone who can code, create, and crack a smile, that's me. I'm here to push the boundaries of what's possible in tech, whether it's through traditional web or the blockchain revolution. Let's collaborate to build something epic, where technology meets storytelling, with a dash of humor on the side.
 
 Top Langs:
 CSS
